@@ -47,9 +47,6 @@
   (def path-orderbook "book/%s")
   (def ^:const default-timeout 5000)
 
-  ;;(def ^:const api-key "BIQxXVVncCxUHVPTvBymaxIynWekCcyGW30wtUBxhaC")
-  ;;(def ^:const api-secret-key "nAuvD5vdqthfVKEFRQwwN3f8DjxTILcn53f8fRGn89z")
-
   (def ^:const api-key "KuOTVyCD5MkrYLXd6VtgWFCzZDDblPlUFjALK14jtdp")
   (def ^:const api-secret-key "jaFCjXjBnneN7xEkxp6CnKFKuYhwB7Yw0fzAZkzI2pd")
 
